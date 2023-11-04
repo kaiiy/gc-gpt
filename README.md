@@ -1,1 +1,1 @@
-# yarn-ts-template
+# gc-gpt
